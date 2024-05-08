@@ -30,8 +30,8 @@ git clone https://github.com/ECEStuffNWJ/DetectDOS.git
 cd DetectDOS  
 chmod +x *.sh  
 ./install.sh and follow onscreen prompts to install SMTP outgoing only mail server
-reboot
-./detectdos.sh
+reboot  
+./detectdos.sh  
 Add detectdos.sh to cronjob if needed.
 
 # Results
