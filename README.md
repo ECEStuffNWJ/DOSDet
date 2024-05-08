@@ -1,6 +1,7 @@
 # DetectDOS
- Quick DOS detection for Linux Server. Makes a snapshot so the Report will be indicative, and aid your early Incident Response.  
- Use cron to run dosde.h regularly. <br/>
+ Quick DOS detection for Linux. Tested on Debian 12, Ubuntu 22/24 LTS, Kali and Parrot Linux.  
+ Makes a snapshot so the Report will be indicative, and aid your early Incident Response.  
+ Use cron to run dosde.h regularly.
 
 # Mitigate a DOS attack
 From dosde.sh, identify the IPs attacking you. Block using the following manual commands  
@@ -34,7 +35,7 @@ reboot
 Add detectdos.sh to cronjob if needed.
 
 # Results
-PLCE OF RESULT ???????????
+cd Home
 
 # License
 MIT License
