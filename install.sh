@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install tools
+# Install tools for emaiing of Results
 echo " "
 echo " Make sure you have setup your outgoing SMTP mail server as per the instructions on screen. "
 echo " You need to specify your email server logon credentials to allow SMTP traffic."
