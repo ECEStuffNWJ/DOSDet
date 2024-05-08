@@ -22,6 +22,17 @@ Now kill all httpd connections and restart httpd services
 Repeat for all malicious IPs.
 <br/>
 
+# Install
+git clone 
+
+# Run
+cd DetectDOS  
+chmod +x *.sh
+./install.sh and follow onscreen prompts to install SMTP outgoing only mail server
+reboot
+./detectdos.sh
+Add detectdos.sh to cronjob if needed.
+
 # Results
 PLCE OF RESULT ???????????
 
