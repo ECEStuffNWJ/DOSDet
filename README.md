@@ -23,7 +23,7 @@ Repeat for all malicious IPs.
 <br/>
 
 # Install
-git clone 
+git clone https://github.com/ECEStuffNWJ/DetectDOS.git
 
 # Run
 cd DetectDOS  
